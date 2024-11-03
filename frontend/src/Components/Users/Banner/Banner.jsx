@@ -27,7 +27,7 @@ function Banner() {
     <div className="carousel-item active">
       <img
         className="d-block w-100"
-        src={slide1}
+        src={slide3}
         alt="Third slide"
       />
     </div>
